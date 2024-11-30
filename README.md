@@ -1,3 +1,3 @@
 Razorpay website 
-https://adityarazorpay.netlify.app/
+https://adityarazorpays.netlify.app/
 website link
